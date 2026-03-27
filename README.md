@@ -1,16 +1,13 @@
-# Siddharth G
-**Information Science Engineer | 3D Web & Mobile Architect**
+# Siddharth G 
+**Interactive Developer | B.Tech Information Science & Engineering**
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sid20007/sid20007/main/profile-3d-contrib/profile-night-rainbow.svg" onerror="this.src='https://capsule-render.vercel.app/api?type=rect&color=0d1117&secondaryColor=00ff9d&height=120&section=header&text=SIDDHARTH%20G&fontSize=60&fontColor=00ff9d&animation=fadeIn'" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117,00ff9d,00a3ff&height=180&section=header&text=SIDDHARTH%20G&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Digital%20Architect%20%E2%80%A2%20Three.js%20Expert%20%E2%80%A2%20Mobile%20Engineer&descSize=18" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Focus-3D%20Web%20Dev-00ff9d?style=for-the-badge&logo=three.js&logoColor=black" />
-  <img src="https://img.shields.io/badge/Project-AgriDirect-00a3ff?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Athlete-State%20Football-7f52ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-sidcv.online-00ff9d?style=for-the-badge&logo=google-chrome&logoColor=black&link=https://www.sidcv.online/" />
 </p>
-
 ---
 
 ### 🚀 Digital Ecosystem
