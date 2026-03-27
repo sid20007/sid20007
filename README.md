@@ -51,7 +51,6 @@ Passionate about bridging complex backend logic with highly interactive frontend
 ---
 
 ### 📡 Ping Me
-`[ 📷 Nikon Z5II ]`  `[ ⚽ State-Level Football ]` `[ 🌐 Web3D ]`
 
 <a href="https://www.sidcv.online/" target="blank"><img align="center" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=00FF9D" /></a>
 ---
