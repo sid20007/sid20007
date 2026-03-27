@@ -2,13 +2,6 @@
 <p align="center">
   <b>Interactive Developer • B.Tech Information Science & Engineering</b>
 </p>
-
-<p align="center">
-  <a href="https://www.sidcv.online/" target="blank">
-    <img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-sidcv.online-00ff9d?style=for-the-badge&logo=google-chrome&logoColor=black" />
-  </a>
-</p>
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=Digital+Architect;Three.js+Expert;Mobile+Engineer" />
 </p>
@@ -45,7 +38,6 @@ I specialize in creating immersive 3D web environments and secure mobile infrast
 ### 📡 Establish Connection
 <p align="left">
 <a href="https://www.sidcv.online/" target="blank"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=00FF9D" /></a>
-<a href="https://github.com/sid20007" target="blank"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 <p align="center">
