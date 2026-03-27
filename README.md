@@ -43,7 +43,7 @@ Passionate about bridging complex backend logic with highly interactive frontend
 *Senior developers track their workflow. These dynamically update to show your coding habits.*
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
+  <img src="https://github-readme-stats.vercel.app/api?username=sid20007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
   
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=YOUR_WAKATIME_USERNAME_HERE&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" height="180" />
 </p>
