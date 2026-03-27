@@ -1,67 +1,60 @@
-# Siddharth G 
-**Information Science Engineer | 3D Web & Mobile Developer**
+# Siddharth G
+**Information Science Engineer | 3D Web & Mobile Architect**
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sid20007&theme=tokyonight&no-bg=true&margin-w=15" alt="Trophies" />
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0d1117&secondaryColor=00ff9d&height=180&section=header&text=SIDDHARTH%20G&fontSize=70&fontColor=00ff9d&animation=fadeIn&desc=ISE%20STUDENT%20|%20THREE.JS%20|%20PYTHON%20|%20KOTLIN&descSize=20" alt="Header" />
 </p>
-
-<p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=16&pause=1000&color=00FF9D&background=0D111700&width=800&height=50&lines=Building+interactive+3D+web+environments.;Developing+secure+Android+architectures.;Exploring+Computer+Vision+and+Gesture+Recognition." alt="Typing Animation" />
-</p>
-
-Passionate about bridging complex backend logic with highly interactive frontend experiences. My focus lies in spatial computing on the web, mobile security, and scalable software solutions.
 
 ---
 
-### 🏗️ Architecture & Featured Projects
+### 🚀 Digital Ecosystem
+I specialize in creating immersive 3D web environments and secure mobile infrastructures. My goal is to merge high-performance backend logic with seamless, interactive user experiences.
 
-| Project | Description | Tech Stack |
+- 🔭 **Current Focus:** Engineering **AgriDirect** (Agricultural Supply Chain Optimization)
+- ⚙️ **Specialization:** Spatial UI/UX with **Three.js** & Gesture Control via **MediaPipe**
+- ⚡ **Background:** State-Level Athlete (Football) & Professional Photography (Nikon Z5II)
+- 🌐 **Live Labs:** [sidcv.online](https://www.sidcv.online/)
+
+---
+
+### 🛠️ Strategic Tech Arsenal
+
+| Domain | Proficiency | Technologies |
 | :--- | :--- | :--- |
-| **[AgriDirect](https://github.com/sid20007/AgriDirect)** | Agricultural supply chain platform optimizing producer-to-market flow. | `Python`, `Web` |
-| **[5G Guard](https://github.com/sid20007/5G-Guard)** | Android security application designed to monitor network safety protocols. | `Kotlin`, `Android Studio` |
-| **[SidCV.online](https://www.sidcv.online/)** | High-performance interactive 3D portfolio featuring spatial rendering. | `Three.js`, `WebGL` |
+| **Core Engineering** | Advanced | `Python`, `C++`, `Java`, `Kotlin` |
+| **3D & Spatial Web** | Specialist | `Three.js`, `WebGL`, `GLSL`, `Canvas API` |
+| **Mobile Security** | Engineer | `Android Studio`, `Firebase`, `Network Encryption` |
+| **Computer Vision** | Researcher | `MediaPipe`, `OpenCV`, `Gesture Mapping` |
 
 ---
 
-### ⚙️ Engineering Stack
+### 🏆 Engineering Milestones & Certifications
+*These represent my core achievements and project leadership.*
 
-**Core Languages & Frameworks**
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-**3D, Vision & Mobile**
-<p align="left">
-  <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
-  <img src="https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=android-studio&logoColor=white" />
-  <img src="https://img.shields.io/badge/MediaPipe-0082FB?style=for-the-badge&logo=google&logoColor=white" /> 
-</p>
+- 🥇 **CodeSprint 2026** – Lead Developer for **AgriDirect**
+- 📱 **5G Guard** – Creator of Network Security Optimization for Android
+- 🏛️ **Academic Lead** – Developed the Student Attendance Architecture for St. Aloysius
+- 📸 **Visual Arts** – Featured Photography Projects (Digital and Analog)
 
 ---
 
-### 📊 Development Metrics
-
+### 🔭 2026 Roadmap
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=sid20007&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sid20007&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=sid20007&theme=tokyonight&hide_border=true&layout=compact" alt="WakaTime Stats" height="180" />
+  <img src="https://img.shields.io/badge/PHASE%201-Planning-00ff9d?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PHASE%202-Development-00a3ff?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/PHASE%203-Scaling-7f52ff?style=for-the-badge" />
 </p>
 
 ---
 
-### 🧱 Spatial Contribution Grid
+### 📡 Establish Connection
+<p align="left">
+<a href="https://www.sidcv.online/" target="blank"><img src="https://img.shields.io/badge/Main_Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=00FF9D" /></a>
+<a href="mailto:YOUR_EMAIL_HERE" target="blank"><img src="https://img.shields.io/badge/Direct_Access-000000?style=for-the-badge&logo=gmail&logoColor=00FF9D" /></a>
+</p>
+
+---
+
 <p align="center">
-  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=00FF9D&center=true&vCenter=true&width=600&lines=%3E+System+Status%3A+Operational;%3E+Latest+Deployment%3A+AgriDirect;%3E+Football+Status%3A+State+Ready" alt="Footer Typing" />
 </p>
-
----
-
-### 📡 Ping Me
-`[ 📷 Nikon Z5II ]`  `[ ⚽ State-Level Football ]` `[ 🌐 Web3D ]`
-
-<a href="https://www.sidcv.online/" target="blank"><img align="center" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=00FF9D" /></a>
