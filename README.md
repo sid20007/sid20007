@@ -21,17 +21,19 @@
 
 ---
 
-### 🎨 Engineering Portfolio
+### ++> Engineering Portfolio
 I build high-performance digital experiences at the intersection of design and logic, specializing in spatial rendering and scalable software solutions.
 
-* 🔭 **Current Project:** **AgriDirect** – Supply chain optimization platform.
-* 📐 **3D Graphics:** Immersive UIs using **Three.js**, **WebGL**, and **GLSL**.
-* 📱 **Mobile Dev:** Secure Android architecture and **5G Guard** development.
-* 📸 **Interests:** Photography (**Nikon Z5II**) and State-Level Football.
+| Project / Application | Architecture & Purpose | Core Tech |
+| :--- | :--- | :--- |
+| **[SOE Attendance Tracker](https://github.com/sid20007/soe-attendace-tracker)** | Automated academic attendance tracking and management system. | `Web`, `Full Stack` |
+| **[Interactive CV](https://www.sidcv.online/)** | Custom spatial web environment (Source: *sid-resume-2007*). | `Three.js`, `JS/CSS` |
+| **[5G Guard](https://github.com/sid20007/5G-Connection-Guard-by-sid)** | Secure Android architecture & optimization platforms. | `Kotlin`, `Python` |
 
 ---
 
-### 🛠️ Strategic Tech Arsenal
+
+### ==> Strategic Tech Arsenal
 
 | Domain | Tech Stack |
 | :--- | :--- |
@@ -41,22 +43,13 @@ I build high-performance digital experiences at the intersection of design and l
 
 ---
 
-### 📈 Activity Waveform
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=sid20007&theme=tokyonight&hide_border=true&area=true&color=00ff9d" width="100%" />
-</p>
-
----
-
-### 📡 System Status
+### ---> System Status
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF9D&center=true&vCenter=true&width=400&lines=%3E+Connection+Secure;%3E+Ready+for+Collaboration;%3E+Mastering+Three.js" />
 </p>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/sid20007/sid20007/output/github-contribution-grid-snake.svg" alt="Snake Animation" />
-</p>
-
-<p align="center">
-  `[ ⚽ State-Level Football ]` `[ 📸 Photography ]` `[ 🌐 Web3D ]`
+  <img src="https://img.shields.io/badge/📸%20Photography%20(Nikon%20Z5II)-0D1117?style=flat-square&logoColor=00FF9D" />
+  <img src="https://img.shields.io/badge/🌐%20Web3D-0D1117?style=flat-square&logoColor=00FF9D" />
+   <img src="https://img.shields.io/badge/🎮%20Gaming%20(Fortnite)-0D1117?style=flat-square&logoColor=00FF9D" />
 </p>
