@@ -1,12 +1,20 @@
-# Siddharth G 
-**Interactive Developer | B.Tech Information Science & Engineering**
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117,00ff9d,00a3ff&height=180&section=header&text=SIDDHARTH%20G&fontSize=70&fontColor=ffffff&animation=twinkling&desc=Digital%20Architect%20%E2%80%A2%20Three.js%20Expert%20%E2%80%A2%20Mobile%20Engineer&descSize=18" />
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117,00ff9d&height=150&section=header&animation=fadeIn" />
+</p>
+
+<h1 align="center">Siddharth G</h1>
+<p align="center">
+  <b>Interactive Developer • B.Tech Information Science & Engineering</b>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-sidcv.online-00ff9d?style=for-the-badge&logo=google-chrome&logoColor=black&link=https://www.sidcv.online/" />
+  <a href="https://www.sidcv.online/" target="blank">
+    <img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-sidcv.online-00ff9d?style=for-the-badge&logo=google-chrome&logoColor=black" />
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=Digital+Architect;Three.js+Expert;Mobile+Engineer" />
 </p>
 
 ### 🚀 Digital Ecosystem
