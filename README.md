@@ -54,3 +54,9 @@ Passionate about bridging complex backend logic with highly interactive frontend
 `[ 📷 Nikon Z5II ]`  `[ ⚽ State-Level Football ]` `[ 🌐 Web3D ]`
 
 <a href="https://www.sidcv.online/" target="blank"><img align="center" src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome&logoColor=00FF9D" /></a>
+---
+
+### 🧱 Spatial Contribution Grid
+<p align="center">
+  <img src="./profile-3d-contrib/profile-night-rainbow.svg" alt="3D Contribution Graph" />
+</p>
