@@ -4,7 +4,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF9D&background=0D111700&width=800&height=100&lines=%3E+Initializing+profile.sh...;%3E+Loading+B.Tech+ISE+Modules...;%3E+Compiling+Three.js+and+Android+Projects...;%3E+System+Ready.+Welcome!_" alt="Terminal Typing Animation" />
 </p>
 
-### 👨‍💻 System Log
+### ----> System Log
 I build interactive digital experiences, explore 3D web environments, and develop mobile applications. When I'm not writing code, I'm usually on the football pitch or behind my Nikon Z5II.
 
 - 🔭 **Executing:** [AgriDirect] (CodeSprint 2026) & Student Attendance Tracker
@@ -14,7 +14,7 @@ I build interactive digital experiences, explore 3D web environments, and develo
 
 ---
 
-### 🛠️ Tech Arsenal
+### ------->Tech Arsenal
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
   <img src="https://img.shields.io/badge/Three.js-000000?style=for-the-badge&logo=three.js&logoColor=white" />
@@ -24,7 +24,7 @@ I build interactive digital experiences, explore 3D web environments, and develo
 
 ---
 
-### 📊 Telemetry
+### ++++> Telemetry
 <p align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME_HERE&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="180" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME_HERE&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="180" />
@@ -32,5 +32,5 @@ I build interactive digital experiences, explore 3D web environments, and develo
 
 ---
 
-### 📫 Establish Connection
+### +-=> Establish Connection
 <a href="https://www.sidcv.online/" target="blank"><img align="center" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=google-chrome&logoColor=00FF9D" /></a>
