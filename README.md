@@ -1,4 +1,4 @@
-# Siddharth G
+#<h1> Siddharth G</h1>
 **Information Science Engineer | 3D Web & Mobile Architect**
 
 <p align="center">
