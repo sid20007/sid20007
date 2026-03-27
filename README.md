@@ -5,9 +5,9 @@
 </p>
 
 ### ----> System Log
-I build interactive digital experiences, explore 3D web environments, and develop mobile applications. When I'm not writing code, I'm usually on the football pitch or behind my Nikon Z5II.
+I build interactive digital experiences, explore 3D web environments, and develop mobile applications. When I'm not writing code, I'm usually on the Games or behind my Nikon Z5II.
 
-- 🔭 **Executing:** [AgriDirect] (CodeSprint 2026) & Student Attendance Tracker
+- 🔭 **Executing:** [AgriDirect] & Student Attendance Tracker(CodeSprint 2026)
 - 🌱 **Learning:** Computer Vision (MediaPipe) & Advanced Three.js
 - ⚡ **Background:** State-Level Footballer & Photography Enthusiast
 - 🌐 **Network:** [sidcv.online](https://www.sidcv.online/)
