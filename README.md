@@ -1,7 +1,3 @@
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=soft&color=0d1117,00ff9d&height=150&section=header&animation=fadeIn" />
-</p>
-
 <h1 align="center">Siddharth G</h1>
 <p align="center">
   <b>Interactive Developer • B.Tech Information Science & Engineering</b>
