@@ -13,7 +13,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=Digital+Architect;Three.js+Expert;Mobile+Engineer" />
 </p>
 
-### 🚀 Digital Ecosystem
+### ---> Digital Ecosystem
 I specialize in creating immersive 3D web environments and secure mobile infrastructures. I bridge the gap between complex backend logic and interactive frontend experiences.
 
 * **Current Focus:** Engineering **AgriDirect** (Agricultural Supply Chain Optimization)
@@ -22,7 +22,7 @@ I specialize in creating immersive 3D web environments and secure mobile infrast
 
 ---
 
-### 🛠️ Strategic Tech Arsenal
+### ==> Strategic Tech Arsenal
 
 | Domain | proficiency | Technologies |
 | :--- | :--- | :--- |
@@ -33,7 +33,7 @@ I specialize in creating immersive 3D web environments and secure mobile infrast
 
 ---
 
-### 🔭 2026 Roadmap
+### -+=> 2026 Roadmap
 <p align="left">
   <img src="https://img.shields.io/badge/PHASE%201-Planning-00ff9d?style=flat-square" />
   <img src="https://img.shields.io/badge/PHASE%202-Development-00a3ff?style=flat-square" />
