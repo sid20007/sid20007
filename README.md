@@ -8,7 +8,6 @@
 <p align="center">
   <img src="https://img.shields.io/badge/LIVE%20PORTFOLIO-sidcv.online-00ff9d?style=for-the-badge&logo=google-chrome&logoColor=black&link=https://www.sidcv.online/" />
 </p>
----
 
 ### 🚀 Digital Ecosystem
 I specialize in creating immersive 3D web environments and secure mobile infrastructures. I bridge the gap between complex backend logic and interactive frontend experiences.
