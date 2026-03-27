@@ -1,4 +1,4 @@
-# ⚡ Siddharth G
+#                                                                                Siddharth G
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1000&color=00FF9D&background=0D111700&width=800&height=100&lines=%3E+Initializing+profile.sh...;%3E+Loading+B.Tech+ISE+Modules...;%3E+Compiling+Three.js+and+Android+Projects...;%3E+System+Ready.+Welcome!_" alt="Terminal Typing Animation" />
