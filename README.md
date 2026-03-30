@@ -1,4 +1,4 @@
-<h1 align="center">Siddharth G</h1>
+<h1 align="center">Sidharth G</h1>
 <p align="center">
   <b>B.Tech Information Science & Engineering • Interactive Developer</b>
 </p>
