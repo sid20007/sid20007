@@ -5,7 +5,7 @@
 
 <p align="center">
   <a href="https://www.sidcv.online/" target="blank">
-    <img src="https://img.shields.io/badge/OFFICIAL%20CV-000000?style=for-the-badge&logo=google-chrome&logoColor=00FF9D" />
+    <img src="https://img.shields.io/badge/SIDCV%20ONLINE-000000?style=for-the-badge&logo=google-chrome&logoColor=00FF9D" />
   </a>
   <a href="https://www.linkedin.com/in/siddhartha-g-9761643a8/" target="blank">
     <img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
