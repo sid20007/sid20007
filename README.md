@@ -1,58 +1,112 @@
 <h1 align="center">Sidharth G</h1>
+
 <p align="center">
-<b>B.Tech Information Science & Engineering • Interactive Developer</b>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D1117,100:1F2937&height=2"/>
 </p>
 
 <p align="center">
-<a href="https://www.sidcv.online/" target="blank">
-<img src="https://img.shields.io/badge/SIDCV%20ONLINE-000000?style=for-the-badge&logo=google-chrome&logoColor=00FF9D" />
-</a>
-<a href="https://www.linkedin.com/in/siddhartha-g-9761643a8/" target="blank">
-<img src="https://img.shields.io/badge/LINKEDIN-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-</a>
-  <a href="mailto:itzsid01@gmail.com">
-    <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://mail.google.com/mail/?view=cm&to=itzsid01@gmail.com" target="_blank">
-  <img src="https://img.shields.io/badge/GMAIL-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-</a>
+Full Stack Developer • Backend Systems • Cloud Deployment
 </p>
 
 <p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=3D+Web+Architect;Python+Developer;Mobile+Engineer" />
+<a href="https://caretrack.live/" target="_blank">
+<img src="https://img.shields.io/badge/CARETRACK.LIVE-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+</a>
+
+<a href="https://www.linkedin.com/in/siddhartha-g-9761643a8/" target="_blank">
+<img src="https://img.shields.io/badge/LINKEDIN-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+
+<a href="mailto:itzsid01@gmail.com">
+<img src="https://img.shields.io/badge/GMAIL-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+</p>
+
+<br>
+
+<p align="center">
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=17&pause=1000&color=8B949E&center=true&vCenter=true&width=650&lines=Building+real+projects;Backend+%2B+Cloud+Infrastructure;Node.js+%7C+TypeScript+%7C+Supabase;Learning+by+shipping" />
 </p>
 
 ---
 
-### ++> Engineering Portfolio
-I build high-performance digital experiences at the intersection of design and logic, specializing in spatial rendering and scalable software solutions.
+## About Me
 
-| Project / Application | Architecture & Purpose | Core Tech |
-| :--- | :--- | :--- |
-| **[SOE Attendance Tracker](https://github.com/sid20007/soe-attendace-tracker)** | Automated academic attendance tracking and management system. | `Web`, `Full Stack` |
-| **[Interactive CV](https://www.sidcv.online/)** | Custom spatial web environment (Source: *sid-resume-2007*). | `Three.js`, `JS/CSS` |
-| **[5G Guard](https://github.com/sid20007/5G-Connection-Guard-by-sid)** | Secure Android architecture & optimization platforms. | `Kotlin`, `Python` |
+I'm an engineering student who likes building real projects and learning by shipping.
+
+Currently interested in:
+- backend systems
+- cloud infrastructure
+- automation
+- messaging platforms
+- product development
+
+Most of my recent work has been around systems that reduce friction and feel simple to use.
 
 ---
 
+## Featured Project
 
-### ==> Strategic Tech Arsenal
+<table>
+<tr>
+<td width="58%">
 
-| Domain | Tech Stack |
+### 🩺 CareTrack
+
+CareTrack is a healthcare monitoring system built around Telegram.
+
+Patients can send:
+- BP readings
+- sugar levels
+- medicine updates
+
+Family members receive:
+- medicine confirmations
+- missed-reading alerts
+- weekly summaries
+
+The idea was simple:
+instead of forcing elderly users to learn another app, use a platform they already know.
+
+#### Stack
+`Node.js` `TypeScript` `Telegraf` `Supabase` `Next.js`
+
+🌐 https://caretrack.live/
+
+</td>
+
+<td width="42%">
+
+<img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="100%" />
+
+</td>
+</tr>
+</table>
+
+---
+
+## Other Projects
+
+| Project | Description |
 | :--- | :--- |
-| **3D & Spatial** | `Three.js`, `WebGL`, `GLSL`, `Canvas API` |
-| **Core Dev** | `Python`, `Kotlin`, `JavaScript`, `C++` |
-| **Vision** | `MediaPipe`, `OpenCV`, `Gesture Mapping` |
+| **[SOE Attendance Tracker](https://github.com/sid20007/soe-attendace-tracker)** | Attendance management and tracking system |
+| **[5G Guard](https://github.com/sid20007/5G-Connection-Guard-by-sid)** | Android utility project focused on connectivity monitoring |
 
 ---
 
-### ---> System Status
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF9D&center=true&vCenter=true&width=400&lines=%3E+Connection+Secure;%3E+Ready+for+Collaboration;%3E+Mastering+Three.js" />
+## Tech Stack
+
+<p>
+<img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,nodejs,express,supabase,postgres,python,cpp,kotlin,git,github,vscode,ts,js" />
 </p>
 
-<p align="center">
-<img src="https://img.shields.io/badge/📸%20Photography%20(Nikon%20Z5II)-0D1117?style=flat-square&logoColor=00FF9D" />
-<img src="https://img.shields.io/badge/🌐%20Web3D-0D1117?style=flat-square&logoColor=00FF9D" />
-<img src="https://img.shields.io/badge/🎮%20Gaming%20(Fortnite)-0D1117?style=flat-square&logoColor=00FF9D" />
-</p>
+---
+
+## Current Focus
+
+```text
+→ Backend systems
+→ Cloud deployment
+→ Automation
+→ Messaging-first platforms
+→ Real-world software projects
