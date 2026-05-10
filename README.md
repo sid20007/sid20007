@@ -16,7 +16,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=3D+Web+Architect;Python+Developer;Mobile+Engineer" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1000&color=00FF9D&center=true&vCenter=true&width=500&lines=3D+Web+Architect;Python+Developer;Mobile+Engine[...]
 </p>
 
 ---
@@ -26,6 +26,7 @@ I build high-performance digital experiences at the intersection of design and l
 
 | Project / Application | Architecture & Purpose | Core Tech |
 | :--- | :--- | :--- |
+| **[CareTrack](https://github.com/sid20007/caretrack)** | Healthcare management platform with intelligent tracking systems. | `TypeScript`, `Full Stack` |
 | **[SOE Attendance Tracker](https://github.com/sid20007/soe-attendace-tracker)** | Automated academic attendance tracking and management system. | `Web`, `Full Stack` |
 | **[Interactive CV](https://www.sidcv.online/)** | Custom spatial web environment (Source: *sid-resume-2007*). | `Three.js`, `JS/CSS` |
 | **[5G Guard](https://github.com/sid20007/5G-Connection-Guard-by-sid)** | Secure Android architecture & optimization platforms. | `Kotlin`, `Python` |
@@ -38,14 +39,14 @@ I build high-performance digital experiences at the intersection of design and l
 | Domain | Tech Stack |
 | :--- | :--- |
 | **3D & Spatial** | `Three.js`, `WebGL`, `GLSL`, `Canvas API` |
-| **Core Dev** | `Python`, `Kotlin`, `JavaScript`, `C++` |
+| **Core Dev** | `Python`, `Kotlin`, `JavaScript`, `C++`, `TypeScript` |
 | **Vision** | `MediaPipe`, `OpenCV`, `Gesture Mapping` |
 
 ---
 
 ### ---> System Status
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF9D&center=true&vCenter=true&width=400&lines=%3E+Connection+Secure;%3E+Ready+for+Collaboration;%3E+Mastering+Three.js" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=16&pause=1000&color=00FF9D&center=true&vCenter=true&width=400&lines=%3E+Connection+Secure;%3E+Ready+for+Collaborati[...]
 </p>
 
 <p align="center">
